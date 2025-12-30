@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on<br>Building scalable CRM and real-estate platforms at Rbrickks Technology.<br><br>👯 Collaborate on<br>SaaS products and production-ready web/mobile apps.<br><br>🤝 Need help with<br>Scaling systems and hardening apps for production.<br><br>🌱 Learning<br>Advanced Next.js and performance-driven architecture.<br><br>💬 Ask me about<br>React, Next.js, React Native, and CRM systems.<br><br>⚡ Fun fact<br>I don’t ship features I wouldn’t maintain myself.
+🔭 Working on<br>Professional, production-ready applications. .<br><br>👯 Collaborate on<br>SaaS products and production-ready web/mobile apps.<br><br>🤝 Need help with<br>Scaling systems and hardening apps for production.<br><br>🌱 Learning<br>Actively learning and building with Java Spring Boot, exploring advanced backend patterns and databases.<br><br>💬 Ask me about<br>Java, SpringBoot, React, Next.js, React Native, and CRM systems.<br><br>⚡ Fun fact<br>I don’t ship features I wouldn’t maintain myself.
 
 
 ## 🌐 Socials:
