@@ -1,37 +1,104 @@
-# 💫 About Me:
-🔭 Working on<br>Professional, production-ready applications. .<br><br>👯 Collaborate on<br>SaaS products and production-ready web/mobile apps.<br><br>🤝 Need help with<br>Scaling systems and hardening apps for production.<br><br>🌱 Learning<br>Actively learning and building with Java Spring Boot, exploring advanced backend patterns and databases.<br><br>💬 Ask me about<br>Java, SpringBoot, React, Next.js, React Native, and CRM systems.<br><br>⚡ Fun fact<br>I don’t ship features I wouldn’t maintain myself.
+# Hi 👋 I'm Rudransh
 
+### Full-Stack Developer | Java & Spring Boot Enthusiast | React & Next.js Developer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rudransh_yerekar?igsh=N2IxeGdyemR5bGxu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rudransh-yerekar-0ba16a216) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudranshyerekar45@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rudranshyerekar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rudranshyerekar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm passionate about building scalable, production-ready web applications with clean architecture and maintainable code. I enjoy solving real-world problems, learning new technologies, and continuously improving as a software engineer.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rudranshyerekar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rudranshyerekar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+# 💫 About Me
+
+🔭 **Currently Building**  
+Production-ready full-stack applications using Java, Spring Boot, React, and Next.js.
+
+👯 **Open to Collaborate On**  
+SaaS products, developer tools, and scalable web/mobile applications.
+
+🤝 **Looking for Help With**  
+System design, distributed systems, cloud deployment, and application scaling.
+
+🌱 **Currently Learning**  
+Spring Security, Microservices, Docker, PostgreSQL, Redis, and advanced backend architecture.
+
+💬 **Ask Me About**  
+Java, Spring Boot, React, Next.js, REST APIs, Authentication, MongoDB, MySQL, and CRM systems.
+
+⚡ **Fun Fact**  
+I prefer writing maintainable software over shipping quick hacks.
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudransh-yerekar-0ba16a216)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rudransh_yerekar)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudranshyerekar45@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+> Replace these with your own repositories.
+
+- 🌟 **CRM System** – Java, Spring Boot, React
+- 🌟 **Expense Tracker** – React Native, Spring Boot
+- 🌟 **Portfolio Website** – Next.js
+- 🌟 **SaaS Dashboard** – Spring Boot, React
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/stats-output/stats.svg?theme=dracula" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=rudranshyerekar&theme=dracula" height="170"/>
+
+<img src="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/languages-output/languages.svg?layout=compact&theme=dracula" height="170"/>
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/pacman-output/pacman-contribution-graph.svg?game=pacman">
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/activity-graph-output/activity-graph.svg?theme=dracula"/>
+
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/pacman-output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/rudranshyerekar/rudranshyerekar/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+### ⭐ Thanks for visiting my profile!
