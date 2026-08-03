@@ -1,17 +1,94 @@
-<h1 data-importer="text" align="left">Hi 👋 I'm Rudransh</h1>
+<h1 align="left">Hi 👋 I'm Rudransh Yerekar</h1>
 
-###
+<p align="left">
+🚀 Full-Stack Developer | Java & Spring Boot | Python | React | Next.js | AI Enthusiast
+</p>
 
-<p data-importer="text" align="left">Full-Stack Developer | Java & Spring Boot Enthusiast | React & Next.js Developer<br>I'm passionate about building scalable, production-ready web applications with clean architecture and maintainable code. I enjoy solving real-world problems, learning new technologies, and continuously improving as a software engineer.</p>
+<p align="left">
+I'm passionate about building scalable, production-ready web applications and AI-powered solutions using modern technologies. I enjoy designing clean architectures, solving real-world problems, and continuously learning new tools to create impactful software. My interests include Full-Stack Development, Backend Engineering, Cloud Technologies, and Generative AI.
+</p>
 
-###
+---
 
-<h2 data-importer="text" align="left">💫 About Me</h2>
+## 💫 About Me
 
-###
+- 💻 Full-Stack Developer specializing in **Java, Spring Boot, React, Next.js, and Python**
+- 🤖 Building **AI-powered applications** using **Groq API, LangChain, and LLMs**
+- 🌐 Developing modern web applications with **Next.js, TypeScript, and Tailwind CSS**
+- ☕ Passionate about **Java Backend Development** and REST APIs
+- 🗄️ Experienced with **MongoDB, MySQL, and PostgreSQL**
+- 📍 Currently exploring **Generative AI, RAG, Vector Databases, and Cloud Deployment**
+- 🎯 Goal: Build scalable software that solves real-world problems
+- 📚 Always learning and improving my development skills
 
-<p data-importer="text" align="left">🔭 Currently Building<br>Production-ready full-stack applications using Java, Spring Boot, React, and Next.js.<br><br>👯 Open to Collaborate On<br>SaaS products, developer tools, and scalable web/mobile applications.<br><br>🤝 Looking for Help With<br>System design, distributed systems, cloud deployment, and application scaling.<br><br>🌱 Currently Learning<br>Spring Security, Microservices, Docker, PostgreSQL, Redis, and advanced backend architecture.<br><br>💬 Ask Me About<br>Java, Spring Boot, React, Next.js, REST APIs, Authentication, MongoDB, MySQL, and CRM systems.<br><br>⚡ Fun Fact<br>I prefer writing maintainable software over shipping quick hacks.</p>
+---
 
+## 🚀 Tech Stack
+
+### 👨‍💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### ⚙️ Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🤖 AI & Machine Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### ☁️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌟 Current Focus
+
+- 🚀 Building AI-powered Full-Stack Applications
+- 🤖 Learning Advanced Generative AI & RAG
+- ☁️ Cloud Deployment & Scalable Architecture
+- ⚡ Mastering Spring Boot Microservices
+- 🌍 Open Source Contributions
+
+---
 ###
 
 <h2 data-importer="text" align="left">🌐 Connect With Me</h2>
